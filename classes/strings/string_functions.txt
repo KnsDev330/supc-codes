@@ -7,7 +7,7 @@ resize() - string er size change kore
 front() - string er first character return kore
 back() - string er last character return kore
 at() - index er character return kore
-append() - string er last e character add kore
+append() - string er last e string add kore
 push_back() - string er last e character add kore
 pop_back() - string er last character remove kore
 erase() - string er kono character remove kore
