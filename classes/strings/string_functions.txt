@@ -1,0 +1,26 @@
+size() - string er size koto
+max_size() - string e maximum koto character rakha jabe
+capacity() - string er capacity koto
+clear() - string ke clear kore dey
+empty() - string empty kina check kore
+resize() - string er size change kore
+front() - string er first character return kore
+back() - string er last character return kore
+at() - index er character return kore
+append() - string er last e character add kore
+push_back() - string er last e character add kore
+pop_back() - string er last character remove kore
+erase() - string er kono character remove kore
+insert() - string er kono jaygay character add kore
+replace() - string er kono jaygay character replace kore
+substr() - string er kono part return kore
+
+
+
+1. ARRAY_SIZE
+2. ADD STRING
+ - check kore je array size er baire jabe kiina
+ - new array create kore
+	- copy kore
+	- delete kore
+
